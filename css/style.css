@@ -1,0 +1,105 @@
+body {
+  background-color: #FFFFFF;
+  font-family: "Open Sans";
+  color: #000000;
+  font-size: 21px;
+  font-weight: 300;
+}
+
+.navbar {
+  height: 80px;
+  font-family:Abril Fatface;
+  
+}
+
+#timsnav {
+  padding: 15px 50px 15px 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1em;
+}
+
+.navbar-brand {
+  font-size: 1.2em;
+}
+
+
+#profile {
+  padding-top: 55px; 
+}
+
+#timpic {
+  border-radius: 50%;
+  text-align: center;
+}
+
+#introtext {
+  padding-top: 40px; 
+}
+
+#portfolio {
+  backround-color: green;
+  font-family: "Abril Fatface";
+}
+
+.port-thumbnails {
+  padding-bottom: 25px;
+  background-color: white;
+}
+
+.section-header {
+  text-align: center;
+  background-color:white;
+  margin-bottom: 25px;
+  font-family: Abril Fatface;
+}
+
+.caption {
+  text-align: center;
+}
+
+h2 {
+  font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+#contactme {
+}
+
+#form {
+  padding-top: 25px;
+  width:100px;
+}
+
+#footer {
+  background-color: #c9c9c9;
+  padding: 15px 50px 15px 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1em;
+  font-family:inherit;
+  color: #ffffff;
+}
+
+#maincontent {
+  margin-bottom: 50px;
+  font-family: Open Sans;
+}
+
+#contactme-content {
+  padding-left: 25px;
+}
+
+.col-md-6 widgets widgets {
+  text-align: center;
+}
+
+.social-icon {
+  margin-left:20px;
+}
+
+.widgets {
+  text-align:center;
+}
